@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HMovie</string>
+    <string name="app_submenu1">特集</string>
+    <string name="app_submenu2">設定</string>
+    <string name="app_btnInfo">詳細情報</string>
+</resources>
